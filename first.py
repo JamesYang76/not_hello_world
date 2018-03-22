@@ -6,3 +6,4 @@ print ("Master")
 print ("origin/master")
 print ("re pull origin/master")
 print ("re pull new branch")
+last
