@@ -5,6 +5,8 @@ print ("Forth")
 print ("Master")
 print ("origin/master")
 print ("re pull origin/master")
+first
 print ("re pull new branch")
+last
 print ("rebase test")
 
